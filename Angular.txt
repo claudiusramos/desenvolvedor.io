@@ -57,7 +57,12 @@ Linguagem de escolha:
     Dart - Não é JavaScript, linguagem criada pelo Google, usada no flutter (desenvolviumento mobile)
 
 
-    
+*** TypeScript ***
+
+Linguagem opensource desenvolvida pela Microsoft, baseado em OOP, superset do JavaScript,
+criada pelo pai do C# e do .net
+
+
 
 
 

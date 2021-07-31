@@ -1,7 +1,12 @@
+*** Lembrando de ter instalado o node e o npm antes ***
+
+
 Se o angular não estiver instalado,
 
 npm install -g @angular/cli 
 
-Lembrando de ter instalado o node e o npm antes
+Criando a aplicação: 
+ng new --commit=false (no caso)
+
 
 

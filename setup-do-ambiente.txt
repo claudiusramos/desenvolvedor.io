@@ -12,3 +12,9 @@ SETUP DO NodeJs
 Pacotes do node
 ---------------
 npmjs.com
+
+
+Ferramentas Úteis
+-----------------
+
+angularconsole.com
