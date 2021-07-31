@@ -1,0 +1,14 @@
+Requisitos:
+
+NodeJs
+npm
+
+Atualizando a versão do npm
+npm install npm@latest -g
+
+
+SETUP DO NodeJs
+
+Pacotes do node
+---------------
+npmjs.com

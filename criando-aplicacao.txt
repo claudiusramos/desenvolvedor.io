@@ -1,0 +1,7 @@
+Se o angular não estiver instalado,
+
+npm install -g @angular/cli 
+
+Lembrando de ter instalado o node e o npm antes
+
+
