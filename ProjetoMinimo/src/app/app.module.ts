@@ -3,11 +3,17 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { UmcomponenteComponent } from './umcomponente/umcomponente.component';
+import { MenuComponent } from './navegacao/menu/menu.component';
+import { HomeComponent } from './navegacao/home/home.component';
+import { FooterComponent } from './navegacao/footer/footer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    UmcomponenteComponent
+    UmcomponenteComponent,
+    MenuComponent,
+    HomeComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule
