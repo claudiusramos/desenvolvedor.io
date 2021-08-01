@@ -6,6 +6,8 @@ import { UmcomponenteComponent } from './umcomponente/umcomponente.component';
 import { MenuComponent } from './navegacao/menu/menu.component';
 import { HomeComponent } from './navegacao/home/home.component';
 import { FooterComponent } from './navegacao/footer/footer.component';
+import { SobreComponent } from './institucional/sobre/sobre.component';
+import { ContatoComponent } from './institucional/contato/contato.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +15,9 @@ import { FooterComponent } from './navegacao/footer/footer.component';
     UmcomponenteComponent,
     MenuComponent,
     HomeComponent,
-    FooterComponent
+    FooterComponent,
+    SobreComponent,
+    ContatoComponent
   ],
   imports: [
     BrowserModule
