@@ -70,10 +70,20 @@
     <br>
     <br>
 
-    <!-- <label [ngClass]="nome">Seu nome é: {{ nome }}</label> -->
+    <label [ngClass]="nome">Seu nome é: &nbsp; {{ nome }}</label>
 
 
     <label>positronx.io/useful-list-of-angular-7-event-types-for-event-binding</label>
         
+    <label for="">NgModel precisa do módulo Forms</label>
+
+
+    <p [ngClass]="{
+        'text-secondary': contadorClique < 3,
+        'text-success': contadorClique >= 3,
+        'text-warning': contadorClique >= 5,
+        'text-danger': contadorClique >= 9
+    }">O número de cliques é: {{ contadorClique }}</p>
+
 
 </div>
