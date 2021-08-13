@@ -15,4 +15,9 @@ export class ProdutoService{
         return this.http.get<Produto[]>(this.UrlServiceV1 + "produtos")
     }
         
+    obterProdutos2() {
+        return this.http.get(this.UrlServiceV1 + "produtos");
+    }
+
+
 }
