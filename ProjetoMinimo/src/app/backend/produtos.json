@@ -1,0 +1,91 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "mouse",
+      "valor": 15.98,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "mouse.jpg"
+    },
+    {
+      "id": 1,
+      "nome": "teclado",
+      "valor": 15.98,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "mouse.jpg"
+    },
+    {
+      "id": 1,
+      "nome": "monitor",
+      "valor": 15.98,
+      "promocao": true,
+      "valorPromo": 0,
+      "imagem": "mouse.jpg"
+    },
+    {
+      "id": 1,
+      "nome": "mouse",
+      "valor": 15.98,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "mouse.jpg"
+    },
+    {
+      "id": 1,
+      "nome": "mouse",
+      "valor": 15.98,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "mouse.jpg"
+    },
+    {
+      "id": 1,
+      "nome": "mouse",
+      "valor": 15.98,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "mouse.jpg"
+    },
+    {
+      "id": 1,
+      "nome": "mouse",
+      "valor": 15.98,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "mouse.jpg"
+    },
+    {
+      "id": 1,
+      "nome": "mouse",
+      "valor": 15.98,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "mouse.jpg"
+    },
+    {
+      "id": 999,
+      "nome": "produto adicionado",
+      "valor": 1000,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "mouse.jpg"
+    },
+    {
+      "id": 1000,
+      "nome": "mil e um produtos",
+      "valor": 1000,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "mouse.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ]
+}

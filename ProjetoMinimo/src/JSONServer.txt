@@ -1,0 +1,6 @@
+Para construir um backend (Fake)
+
+npm i json-server
+
+Para rodar:
+json-server --watch produtos.json (exemplo)

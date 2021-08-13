@@ -14,6 +14,7 @@ import { rootRouterConfig } from './app.routes';
 import { ProdutosComponent } from './institucional/produtos/produtos.component';
 import { DataBindingComponent } from './demos/data-binding/data-binding.component';
 import { FormsModule } from '@angular/forms';
+import { ProdutoService } from './produtos/produtos.service';
  
 
 @NgModule({
@@ -38,7 +39,7 @@ import { FormsModule } from '@angular/forms';
     TesteComponent
   ],
   providers: [
-     
+     ProdutoService
   ],
   bootstrap: [AppComponent]
 })
