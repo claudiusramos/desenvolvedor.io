@@ -7,6 +7,8 @@ import { Component } from '@angular/core';
 })
 export class MenuComponent  {
 
+  inter: String = 'Interpolação';
+
   constructor() { }
 
   ngOnInit() {
