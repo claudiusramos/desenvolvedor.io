@@ -1,0 +1,15 @@
+excluir a pasta node_modules
+
+npm i --> instalaria a pasta node_modules
+
+======
+
+npm i npm-check-updates
+
+ncu --> mostra mudanças
+
+ncu -u --> atualiza o package.json
+
+npm i -> instala atualizações (preferencialmente apague a pasta node_modules)
+
+ng b --prod  --> compila em produção (verifica algum erro pois a compilação é mais rica)
