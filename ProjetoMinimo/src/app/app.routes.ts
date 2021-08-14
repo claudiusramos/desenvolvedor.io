@@ -13,5 +13,6 @@ export const rootRouterConfig: Routes = [
     { path: 'contato', component: ContatoComponent},
     { path: 'feature-data-binding', component: DataBindingComponent},
     { path: 'lista-produtos', component: ListaProdutoComponent},
+    { path: 'produto-detalhe/:id', component: ListaProdutoComponent}
 
 ]

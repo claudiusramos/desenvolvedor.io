@@ -1,6 +1,11 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { LOCALE_ID, NgModule } from '@angular/core';
 
+// Trabalhando com localização
+import { registerLocaleData } from "@angular/common";
+import localePt from "@angular/common/locales/pt";
+registerLocaleData(localePt)
+
 import { AppComponent } from './app.component';
 import { UmcomponenteComponent } from './umcomponente/umcomponente.component';
 import { MenuComponent } from './navegacao/menu/menu.component';
