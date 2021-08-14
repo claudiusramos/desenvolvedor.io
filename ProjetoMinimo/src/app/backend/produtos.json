@@ -14,63 +14,63 @@
       "valor": 15.98,
       "promocao": false,
       "valorPromo": 0,
-      "imagem": "mouse.jpg"
+      "imagem": "teclado.jpg"
+    },
+    {
+      "id": 1,
+      "nome": "GoPro",
+      "valor": 15.98,
+      "promocao": true,
+      "valorPromo": 0,
+      "imagem": "gopro.jpg"
+    },
+    {
+      "id": 1,
+      "nome": "headset",
+      "valor": 15.98,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "headset.jpg"
+    },
+    {
+      "id": 1,
+      "nome": "laptop",
+      "valor": 15.98,
+      "promocao": false,
+      "valorPromo": 0,
+      "imagem": "laptop.jpg"
     },
     {
       "id": 1,
       "nome": "monitor",
       "valor": 15.98,
-      "promocao": true,
+      "promocao": false,
       "valorPromo": 0,
-      "imagem": "mouse.jpg"
+      "imagem": "monitor.jpg"
     },
     {
       "id": 1,
-      "nome": "mouse",
+      "nome": "mousepad",
       "valor": 15.98,
       "promocao": false,
       "valorPromo": 0,
-      "imagem": "mouse.jpg"
+      "imagem": "mousepad.jpg"
     },
     {
       "id": 1,
-      "nome": "mouse",
+      "nome": "teclado",
       "valor": 15.98,
       "promocao": false,
       "valorPromo": 0,
-      "imagem": "mouse.jpg"
-    },
-    {
-      "id": 1,
-      "nome": "mouse",
-      "valor": 15.98,
-      "promocao": false,
-      "valorPromo": 0,
-      "imagem": "mouse.jpg"
-    },
-    {
-      "id": 1,
-      "nome": "mouse",
-      "valor": 15.98,
-      "promocao": false,
-      "valorPromo": 0,
-      "imagem": "mouse.jpg"
-    },
-    {
-      "id": 1,
-      "nome": "mouse",
-      "valor": 15.98,
-      "promocao": false,
-      "valorPromo": 0,
-      "imagem": "mouse.jpg"
+      "imagem": "teclado.jpg"
     },
     {
       "id": 999,
-      "nome": "produto adicionado",
+      "nome": "webcam",
       "valor": 1000,
       "promocao": false,
       "valorPromo": 0,
-      "imagem": "mouse.jpg"
+      "imagem": "webcam.jpg"
     },
     {
       "id": 1000,
@@ -78,6 +78,14 @@
       "valor": 1000,
       "promocao": false,
       "valorPromo": 0,
+      "imagem": "mouse.jpg"
+    },
+    {
+      "id": 1002,
+      "nome": "Go Pro Barata",
+      "valor": 1000,
+      "promocao": true,
+      "valorPromo": 500,
       "imagem": "mouse.jpg"
     }
   ],
